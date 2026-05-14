@@ -32,5 +32,5 @@ jobs:
           context: .
           push: true
           tags: |
-            rashedulalbab1234/medibot:latest
-            rashedulalbab1234/medibot:${{ github.sha }}
+            sanzysanjay/medibot:latest
+            sanzysanjay/medibot:${{ github.sha }}
